@@ -1,0 +1,43 @@
+#tudos {
+	height: 700px;
+	width: 700px;
+	background-color: white;
+}
+
+#avatar {
+	height: 240px;
+	width: 240px;
+	float: left;
+}
+
+img {
+	width: 89%;
+	height: 89%;
+}
+
+#informacoes {
+	padding-left: 240px;
+	float: right;
+}
+
+#tabela {
+	padding-top: 250px;
+	padding-left: 250px;
+	text-align: center;
+	float: center;
+}
+
+#lista {
+	height: 300px;
+	width: 300px;
+	float: left;
+}
+
+#midia {
+	float: right;
+	padding-top: 20px;
+}
+
+video {
+	   height: 200px;
+ }
