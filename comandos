@@ -1,50 +1,52 @@
 Como fazer repositórios:
 
-- git init (cria um repositório na pasta atual)
+- git init (cria um repositório na pasta atual){}
 ou
-- [Novo Repositório] (No site do GitHub)
+- [Novo Repositório] (No site do GitHub){
   +
   git clone [link do repositório]
+}
 
 Como salvar:
 
-- ./chuGit [email] [nome para usuario]
+- ./chuGit [email] [nome para usuario] {
 
-if Doesntwork (){
+	if NaoFunciona (){
 
-	ls();
-	chmod 777 chuGit;
-	return 9;
+		escreva("ls");
+		escreva("chmod 777 [chuGit ou gitxablau.sh]");
+		return 10;
+	}
+
+
+	+
+
+	- git add [nome do arquivo]
+	ou
+	- git add .
+
+	+
+
+	- git commit
+
+	if gitcommit{
+
+		ctrl+o;
+		Enter;
+		ctrl+x;
+
+	}
+	ou
+	- git commit -m ["mensagem entre aspas"]
+	+
+
+	- git push
+
+	if NaoFunciona (){
+
+		gitstatus();
+		
+	}
 }
-
-
-+
-
-- git add [nome do arquivo]
 ou
-- git add .
-
-+
-
-- git commit
-
-if gitcommit{
-
-	ctrl+o;
-	Enter;
-	ctrl+x;
-
-}
-ou
-- git commit -m ["mensagem entre aspas"]
-
-+
-
-- git push
-
-if Doesntwork (){
-
-	gitstatus();
-}
-
-
+- ./gitxablau.sh [email] [nome para usuario] [mensagem para o commit]
