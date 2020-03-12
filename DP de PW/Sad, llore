@@ -1,0 +1,26 @@
+<!DOCTYPE html> <!--Não é necessário :O-->
+<html>
+	<head>
+		<title>Programação Web</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<!--<h3>Things my teacher says:</h3>
+		<ul>
+			<li>Read</li>
+			<li>Buddy</li>
+			<li>Bree-ack<li>
+		</ul>
+		-->
+		<center>
+		<h1>AULA 1</h1>
+		<h2>AULA 1</h2>
+		<h3>AULA 1</h3>
+		<h4>AULA 1</h4>
+		<h5>AULA 1</h5>
+		<h6>AULA 1</h6>
+		<br>
+		<p>This is a Paragraph</p>
+		</center>
+	</body>
+</html>
